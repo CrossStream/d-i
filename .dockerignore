@@ -1,0 +1,11 @@
+# .dockignore
+Dockerfile
+.git/
+
+# .gitignore
+/packages/
+/di-autobuild/
+/installer/
+/installation-guide/
+*~
+tmp/
