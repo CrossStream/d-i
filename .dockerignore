@@ -1,0 +1,8 @@
+Dockerfile
+
+# .gitignore
+/packages/
+/di-autobuild/
+/installer/
+/installation-guide/
+*~
