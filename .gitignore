@@ -1,4 +1,7 @@
+# .gitignore
 /packages/
 /di-autobuild/
 /installer/
 /installation-guide/
+*~
+tmp/
